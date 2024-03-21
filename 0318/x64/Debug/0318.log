@@ -1,0 +1,2 @@
+﻿sizeof.obj : error LNK2005: main 已在 class318.obj 中定義過了
+C:\codeHW2\0318\x64\Debug\0318.exe : fatal error LNK1169: 找到有一或多個已定義的符號
